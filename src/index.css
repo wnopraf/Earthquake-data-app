@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'roboto', sans-serif;
+}
+
+#root {
+  height: 100%;
+  position: relative;
+}
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.button-wrapper {
+  position: absolute;
+  top: 5.6rem;
+  left: 1rem;
+  z-index: 10000;
+}
+
+.button-wrapper li {
+  padding: 1rem 0.5rem;
+  cursor: pointer;
+  background: white;
+  transition: background-color 300ms;
+}
+.button-wrapper li:hover {
+  background: #f1d6d68c;
+}
