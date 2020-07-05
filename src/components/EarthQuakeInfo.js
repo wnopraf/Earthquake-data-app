@@ -66,7 +66,7 @@ const EarthQuakeInfoRender = styled.div`
    
 `
 const CloseButtonRender = styled.span`
-  color: red;
+  color: #ec4f4f;
   position: absolute;
   top: 0.5rem;
   right: 0.5rem;
