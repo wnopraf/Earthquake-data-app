@@ -1,3 +1,3 @@
 # Earthquake data
 
-React mapa data based app that shows the number of earthquakes in 2020.
+React map data based app that shows the number of earthquakes in 2020.
